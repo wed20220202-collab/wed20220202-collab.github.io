@@ -1,0 +1,2 @@
+:HL["/_next/static/css/d19b74b6f8441061.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"page","param":{"type":"d","key":"advertisement","siblings":["_not-found","_global-error","about","bookmarks","categories","contact","icon.svg","mistakes","mock-exam","opengraph-image","practice","questions","robots.txt","sitemap.xml","study"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"0FFVioazDV_Irc0aimV0y"}
