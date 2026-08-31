@@ -1,11 +1,6 @@
 User-Agent: *
 Allow: /
-Disallow: /admin
+Disallow: /admin/
 Disallow: /api/
-Disallow: /study
-Disallow: /bookmarks
-Disallow: /mistakes
-Disallow: /practice
-Disallow: /mock-exam/result
 
 Sitemap: https://wed20220202-collab.github.io/sitemap.xml
