@@ -1,0 +1,6 @@
+:HL["/_next/static/css/53324ae496c067f0.css","style"]
+:HL["/_next/static/css/975e036cece70a4e.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"sql-join-totals","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"workshops","h":131168,"c":"$Q2"}]]
+0:{"b":"SWGhV62mENsC3Ty9WjZXx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

@@ -1,2 +1,4 @@
-:HL["/_next/static/css/78a905facc86e4f4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"page","param":{"type":"d","key":"advertisement","siblings":["_not-found","_global-error","about","bookmarks","categories","contact","editorial-policy","exam-guide","icon.svg","learn","mistakes","mock-exam","og-image.png","practice","questions","robots.txt","sitemap.xml","study-guide","study"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Qhilzy4ZjiNkQ5jwzrhu7"}
+:HL["/_next/static/css/53324ae496c067f0.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"page","t":"d","k":"advertisement","s":["_not-found","_global-error","about","bookmarks","categories","contact","editorial-policy","exam-guide","icon.svg","learn","mistakes","mock-exam","og-image.png","practice","questions","robots.txt","sitemap.xml","study-guide","study","updates","workshops"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"SWGhV62mENsC3Ty9WjZXx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

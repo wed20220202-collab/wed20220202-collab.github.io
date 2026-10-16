@@ -1,2 +1,5 @@
-:HL["/_next/static/css/78a905facc86e4f4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"questions","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"original-046","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Qhilzy4ZjiNkQ5jwzrhu7"}
+:HL["/_next/static/css/53324ae496c067f0.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"original-046","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"questions","h":131168,"c":"$Q2"}]]
+0:{"b":"SWGhV62mENsC3Ty9WjZXx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
